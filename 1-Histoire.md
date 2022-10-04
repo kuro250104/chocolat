@@ -20,6 +20,6 @@ Le marché du chocolat en France en 2021
 <!DOCTYPE html!>
 <html>
 <body>
-<img src="chocolat.jpg" height="20px;"/>
+<img src="chocolat.jpg" height="20px;" alt="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geo.fr%2Fhistoire%2Fcomment-le-chocolat-est-il-arrive-en-france-206524&psig=AOvVaw0RbiWquaLUEBR8CSvXnBCl&ust=1664954172037000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKC-9-KDxvoCFQAAAAAdAAAAABAD"/>
 </body>
 <html>
