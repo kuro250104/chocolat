@@ -7,3 +7,6 @@
 * Benoit Chocolats Angers
 * LEONIDAS
 * Damien Vétault Artisans Chocolatier Pâtissier Angers
+* RÉAUTÉ CHOCOLAT
+* Chocolat MATHEZ
+* Monbana
