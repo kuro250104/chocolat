@@ -20,6 +20,6 @@ Le marché du chocolat en France en 2021
 <!DOCTYPE html!>
 <html>
 <body>
-<img src="chocolat.jpg" height="20px;">
+<img src="chocolat.jpg" height="20px;"/>
 </body>
 <html>
