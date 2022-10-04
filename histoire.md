@@ -16,3 +16,4 @@ Le chocolat se conserve-t-il au réfrigérateur ?
 Non. L'humidité et le froid altèrent sa texture. Mieux vaut le conserver à l'abri de ces éléments et entre 16 et 20°C dans son emballage, car le chocolat capte les odeurs.
 
 Le marché du chocolat en France en 2021
+roch
