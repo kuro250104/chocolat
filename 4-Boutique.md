@@ -10,4 +10,7 @@
 * RÉAUTÉ CHOCOLAT
 * Chocolat MATHEZ
 * Monbana
-
+* Allard Patissier, Cholcolatier Angers
+* Le Comptoir de Mathilde Angers
+* Benoit Macarons et Caramandes Angers
+* Le Roy René Angers  
