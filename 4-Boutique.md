@@ -1,6 +1,6 @@
 # 4 Boutiques 
 
-* Les grandes boutiques de chocolats d'Angers
+* *Les grandes boutiques de chocolats d'Angers*
 
 * La Maison du Quernon d'Ardoise
 * Jeff de Bruges
@@ -10,3 +10,4 @@
 * RÉAUTÉ CHOCOLAT
 * Chocolat MATHEZ
 * Monbana
+
