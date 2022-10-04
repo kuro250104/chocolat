@@ -18,3 +18,5 @@
 * Poulain
 * Cémoi 
 * Reauté Chocolat 
+* Hershey's
+* Ghirardelli
