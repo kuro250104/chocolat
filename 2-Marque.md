@@ -12,3 +12,9 @@
 * Nestlé
 * M&M's
 * Toblerone
+ # Les marques de chocolat les plus importante
+
+* Monbana
+* Poulain
+* Cémoi 
+* Reauté Chocolat 
