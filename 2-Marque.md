@@ -18,9 +18,3 @@
 * Poulain
 * Cémoi 
 * Reauté Chocolat 
-
-## Les marques de chocolat favorites des Français
-
-* Côte d’Or,
-* Milka
-* Kinder
