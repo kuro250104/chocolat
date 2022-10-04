@@ -18,3 +18,11 @@
 * Poulain
 * Cémoi 
 * Reauté Chocolat 
+* Hershey's
+
+## Les marques de Chocolat Américaine
+* Guittard
+* Ghirardelli
+* Baker
+* Cargill
+* Wilbur
