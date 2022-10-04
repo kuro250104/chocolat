@@ -33,4 +33,10 @@ Le chocolat noir : pâte  de cacao, beurre de cacao et du sucre
 
 Le chocolat au lait : pâte  de cacao, du sucre, du beurre de cacao et du lait en poudre
 
+<<<<<<< HEAD
 Le chocolat blanc : du beurre de cacao, du sucre et du lait en poudre
+
+Gaetan bougoula test pull request
+=======
+Le chocolat blanc : du beurre de cacao, du sucre et du lait en poudre
+>>>>>>> 7aca3e2dad4be9e887dd1f3b020fcc0e2d887915
