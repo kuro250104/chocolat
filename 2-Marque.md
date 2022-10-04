@@ -19,8 +19,5 @@
 * Cémoi 
 * Reauté Chocolat 
 
-## Les marques de chocolat favorites des Français
-
-* Côte d’Or,
-* Milka
-* Kinder
+## Quelles marque ayant fourni le plus d'efforts
+* LINDT
