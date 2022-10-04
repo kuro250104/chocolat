@@ -1,3 +1,5 @@
+Bonjour, voici l'histoire du chocolat j'espère que vous aller la lire avec attention car ceci est interessant
+
 D'où viennent les premières cultures de cacao ?
 
 Originaire d'Amérique du Sud, le cacaoyer est cultivé dès le VIe siècle par les Mayas. Ce peuple d'Amérique du Sud baptise « cacau » le fruit de l'arbre à cabosse.
